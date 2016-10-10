@@ -1,0 +1,25 @@
+{
+  "name": "full-stack-redux-tutorial",
+  "version": "1.0.0",
+  "description": "react and redux",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moondancer83/full-stack-redux-tutorial.git"
+  },
+  "keywords": [
+    "react",
+    "redux"
+  ],
+  "author": "Tero Parviainen (@teropa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Moondancer83/full-stack-redux-tutorial/issues"
+  },
+  "homepage": "http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html"
+}
