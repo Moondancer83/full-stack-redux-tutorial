@@ -1,7 +1,3 @@
-/**
- * Created by mkalinovits on 10/10/16.
- */
-
 import {expect} from "chai";
 import {List, Map} from "immutable";
 

@@ -1,7 +1,3 @@
-/**
- * Created by mkalinovits on 10/10/16.
- */
-
 import {List, Map} from 'immutable';
 import {expect} from 'chai';
 import {setEntries, next, vote} from '../src/core';
